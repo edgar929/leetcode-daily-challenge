@@ -20,7 +20,7 @@ let twoSum = (nums, target)=>{
             newArr.set(compliment, index)
         }
     }
-    return newArr
+    return newArrd
 }
 
 console.log(twoSum([2, 2, 3], 5))
